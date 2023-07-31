@@ -24,7 +24,7 @@ Este é o repositório do projeto Smartphone Store, uma loja virtual de smartpho
 
 </br>
 <p>
-Se você encontrar algum problema ou tiver alguma sugestão de melhoria, pode entrar em contato comigo pelo meu perfil no <a href="https://github.com/SidneyTeodoroJr" target="_blank">ou pelas minhas redes sociais listadas abaixo.
+Se você encontrar algum problema ou tiver alguma sugestão de melhoria, pode entrar em contato comigo pelo meu perfil no <a href="https://github.com/SidneyTeodoroJr" target="_blank">GitHub</a> ou pelas minhas redes sociais listadas abaixo.
 </p>
 
 ##
