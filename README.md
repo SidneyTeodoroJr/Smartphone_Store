@@ -18,49 +18,6 @@ Este é o repositório do projeto Smartphone Store, uma loja virtual de smartpho
 2. Carrinho de Compras: Os usuários podem adicionar smartphones ao carrinho de compras, visualizar os itens adicionados e excluir caso quira.
 </br>
 
-## Organização dos Arquivos
-
-<p>
- O projeto está organizado da seguinte maneira:
-</p>
-
-    
-    Smartphone_Store/
-     │
-     ├── app/
-     │   ├── static/
-     │   │   ├── css/
-     │   │   │   ├── style.css
-     │   │   │   └── ...
-     │   │   └── js/
-     │   │       ├── main.js
-     │   │       └── ...
-     │   ├── templates/
-     │   │   ├── base.html
-     │   │   ├── index.html
-     │   │   ├── product_detail.html
-     │   │   ├── cart.html
-     │   │   ├── checkout.html
-     │   │   └── ...
-     │   ├── __init__.py
-     │   ├── models.py
-     │   ├── routes.py
-     │   ├── forms.py
-     │   └── ...
-     │
-     ├── migrations/
-     │   └── ...
-     │ 
-     ├── tests/
-     │   └── ...
-     │
-     ├── config.py
-     ├── requirements.txt
-     ├── run.py
-     ├── README.md
-     └── ...
-
-
 </br>
 <p>
 Se você encontrar algum problema ou tiver alguma sugestão de melhoria, pode entrar em contato comigo pelo meu perfil no <a href="https://github.com/SidneyTeodoroJr" target="_blank">ou pelas minhas redes sociais listadas abaixo.
