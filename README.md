@@ -2,7 +2,9 @@
 </br>
 
 <div align="center">
+<a href="https://smartphone-store-react.netlify.app/" target="_blank">
 <img src="https://github.com/SidneyTeodoroJr/Smartphone_Store/blob/main/smartphone_store_capture.png" alt="Smartphone Store">
+</a>
 </div>
 </br> 
 </br>
@@ -10,7 +12,9 @@
 <p>
 Este é o repositório do projeto Smartphone Store, uma loja virtual de smartphones. O objetivo deste projeto é desenvolver uma aplicação web completa para simular uma loja online, onde os usuários podem visualizar diferentes modelos, adicionar produtos ao carrinho e finalizar a compra.
 </p>
+<h3 align="left"><a href="https://smartphone-store-react.netlify.app/">Live demo></a></h3>
 </br>
+
 
 ## Funcionalidades
 
