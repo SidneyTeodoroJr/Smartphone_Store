@@ -1,2 +1,77 @@
-# Smartphone_Store
- 
+<h2 align="center">Smartphone Store</h2>
+</br>
+
+<div align="center">
+<img src="https://github.com/SidneyTeodoroJr/Smartphone_Store/blob/main/smartphone_store_capture.png" alt="Smartphone Store">
+</div>
+</br> 
+</br>
+
+<p>
+Este é o repositório do projeto Smartphone Store, uma loja virtual de smartphones. O objetivo deste projeto é desenvolver uma aplicação web completa para simular uma loja online, onde os usuários podem visualizar diferentes modelos, adicionar produtos ao carrinho e finalizar a compra.
+</p>
+</br>
+
+## Funcionalidades
+
+1. Catálogo de Smartphones: Os usuários podem navegar por uma lista de smartphones disponíveis na loja.
+2. Carrinho de Compras: Os usuários podem adicionar smartphones ao carrinho de compras, visualizar os itens adicionados e excluir caso quira.
+</br>
+
+## Organização dos Arquivos
+
+<p>
+ O projeto está organizado da seguinte maneira:
+</p>
+
+    
+    Smartphone_Store/
+     │
+     ├── app/
+     │   ├── static/
+     │   │   ├── css/
+     │   │   │   ├── style.css
+     │   │   │   └── ...
+     │   │   └── js/
+     │   │       ├── main.js
+     │   │       └── ...
+     │   ├── templates/
+     │   │   ├── base.html
+     │   │   ├── index.html
+     │   │   ├── product_detail.html
+     │   │   ├── cart.html
+     │   │   ├── checkout.html
+     │   │   └── ...
+     │   ├── __init__.py
+     │   ├── models.py
+     │   ├── routes.py
+     │   ├── forms.py
+     │   └── ...
+     │
+     ├── migrations/
+     │   └── ...
+     │ 
+     ├── tests/
+     │   └── ...
+     │
+     ├── config.py
+     ├── requirements.txt
+     ├── run.py
+     ├── README.md
+     └── ...
+
+
+</br>
+<p>
+Se você encontrar algum problema ou tiver alguma sugestão de melhoria, pode entrar em contato comigo pelo meu perfil no <a href="https://github.com/SidneyTeodoroJr" target="_blank">ou pelas minhas redes sociais listadas abaixo.
+</p>
+
+##
+</br>
+
+<div align="center">
+<a href="https://www.facebook.com/profile.php?id=100091086461235" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+<a href="https://www.instagram.com/sidneyteodoroaraujo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/sidney-teodoro-4a4a8119b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FevuTOiSSJS2hWGCZgtZiQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+</div>
+
